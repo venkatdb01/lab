@@ -1,0 +1,189 @@
+[
+  {
+    "request_id": "R001",
+    "client_name": "Ananya Reddy",
+    "event_type": "reception",
+    "guest_count": 300,
+    "budget": 350000,
+    "preferred_areas": [
+      "Gachibowli",
+      "Kondapur",
+      "Madhapur"
+    ],
+    "event_date": "2026-12-14",
+    "must_have_amenities": [
+      "parking",
+      "in_house_catering"
+    ],
+    "catering_preference": "both",
+    "indoor_outdoor_preference": "indoor"
+  },
+  {
+    "request_id": "R002",
+    "client_name": "Imran Khan",
+    "event_type": "birthday",
+    "guest_count": 60,
+    "budget": 80000,
+    "preferred_areas": [
+      "Kukatpally",
+      "Miyapur",
+      "Nizampet"
+    ],
+    "event_date": "2026-11-22",
+    "must_have_amenities": [
+      "parking",
+      "ac"
+    ],
+    "catering_preference": "veg",
+    "indoor_outdoor_preference": "any"
+  },
+  {
+    "request_id": "R003",
+    "client_name": "Sharma Family",
+    "event_type": "wedding",
+    "guest_count": 600,
+    "budget": 900000,
+    "preferred_areas": [
+      "Jubilee Hills",
+      "Banjara Hills"
+    ],
+    "event_date": "2027-01-18",
+    "must_have_amenities": [
+      "parking",
+      "valet",
+      "guest_rooms",
+      "stage"
+    ],
+    "catering_preference": "both",
+    "indoor_outdoor_preference": "any"
+  },
+  {
+    "request_id": "R004",
+    "client_name": "TechNova Pvt Ltd",
+    "event_type": "corporate",
+    "guest_count": 150,
+    "budget": 200000,
+    "preferred_areas": [
+      "HITEC City",
+      "Madhapur",
+      "Financial District"
+    ],
+    "event_date": "2026-12-05",
+    "must_have_amenities": [
+      "projector",
+      "ac",
+      "parking"
+    ],
+    "catering_preference": "both",
+    "indoor_outdoor_preference": "indoor"
+  },
+  {
+    "request_id": "R005",
+    "client_name": "Keerthi Rao",
+    "event_type": "engagement",
+    "guest_count": 200,
+    "budget": 250000,
+    "preferred_areas": [
+      "Secunderabad",
+      "Begumpet"
+    ],
+    "event_date": "2026-12-28",
+    "must_have_amenities": [
+      "decoration",
+      "ac"
+    ],
+    "catering_preference": "veg",
+    "indoor_outdoor_preference": "any"
+  },
+  {
+    "request_id": "R006",
+    "client_name": "Deepak Menon",
+    "event_type": "reception",
+    "guest_count": 400,
+    "budget": 150000,
+    "preferred_areas": [
+      "Jubilee Hills"
+    ],
+    "event_date": "2027-02-14",
+    "must_have_amenities": [
+      "valet",
+      "guest_rooms"
+    ],
+    "catering_preference": "both",
+    "indoor_outdoor_preference": "indoor"
+  },
+  {
+    "request_id": "R007",
+    "client_name": "Lakshmi Prasad",
+    "event_type": "birthday",
+    "guest_count": 40,
+    "budget": 50000,
+    "preferred_areas": [
+      "Dilsukhnagar",
+      "LB Nagar",
+      "Uppal"
+    ],
+    "event_date": "2026-11-29",
+    "must_have_amenities": [
+      "parking"
+    ],
+    "catering_preference": "veg",
+    "indoor_outdoor_preference": "any"
+  },
+  {
+    "request_id": "R008",
+    "client_name": "Fatima Begum",
+    "event_type": "baby_shower",
+    "guest_count": 100,
+    "budget": 120000,
+    "preferred_areas": [
+      "Kondapur",
+      "Manikonda"
+    ],
+    "event_date": "2026-12-07",
+    "must_have_amenities": [
+      "ac",
+      "decoration"
+    ],
+    "catering_preference": "veg",
+    "indoor_outdoor_preference": "indoor"
+  },
+  {
+    "request_id": "R009",
+    "client_name": "Rohit & Sneha",
+    "event_type": "wedding",
+    "guest_count": 350,
+    "budget": 500000,
+    "preferred_areas": [
+      "Kokapet",
+      "Nanakramguda",
+      "Gachibowli"
+    ],
+    "event_date": "2027-01-25",
+    "must_have_amenities": [
+      "parking",
+      "stage",
+      "in_house_catering"
+    ],
+    "catering_preference": "both",
+    "indoor_outdoor_preference": "both"
+  },
+  {
+    "request_id": "R010",
+    "client_name": "Venkat Sastry",
+    "event_type": "anniversary",
+    "guest_count": 80,
+    "budget": 100000,
+    "preferred_areas": [
+      "Ameerpet",
+      "Somajiguda"
+    ],
+    "event_date": "2026-12-20",
+    "must_have_amenities": [
+      "ac",
+      "parking"
+    ],
+    "catering_preference": "both",
+    "indoor_outdoor_preference": "indoor"
+  }
+]

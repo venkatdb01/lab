@@ -1,0 +1,154 @@
+review_id,venue_id,rating,review_date,comment
+RV0001,H001,3,2026-10-14,Decent place but AC was a bit weak.
+RV0002,H001,5,2026-09-20,Decoration team did a wonderful job.
+RV0003,H001,3,2026-07-07,Nice venue but slightly overpriced.
+RV0004,H001,5,2026-09-15,Great ambience and spotless washrooms.
+RV0005,H001,2,2026-07-01,Poor coordination on the event day.
+RV0006,H001,1,2026-08-23,Catering quality was below expectations.
+RV0007,H002,5,2026-10-03,"Beautiful hall, staff were very helpful."
+RV0008,H002,5,2026-10-04,"Beautiful hall, staff were very helpful."
+RV0009,H002,4,2026-10-23,Great ambience and spotless washrooms.
+RV0010,H003,4,2026-10-27,"Catering was excellent, guests loved the food."
+RV0011,H003,4,2026-08-15,"Spacious parking, no hassle for guests."
+RV0012,H003,4,2026-08-20,"Spacious parking, no hassle for guests."
+RV0013,H003,4,2026-07-09,Great ambience and spotless washrooms.
+RV0014,H004,5,2026-09-27,Decoration team did a wonderful job.
+RV0015,H004,5,2026-09-27,Smooth coordination from booking to the event.
+RV0016,H004,4,2026-10-28,Smooth coordination from booking to the event.
+RV0017,H004,5,2026-10-12,Decoration team did a wonderful job.
+RV0018,H004,5,2026-10-15,Decoration team did a wonderful job.
+RV0019,H005,2,2026-08-19,Catering quality was below expectations.
+RV0020,H005,4,2026-07-11,"Spacious parking, no hassle for guests."
+RV0021,H005,3,2026-10-22,Nice venue but slightly overpriced.
+RV0022,H005,3,2026-10-02,"Good hall, parking fills up quickly though."
+RV0023,H006,4,2026-09-28,Decoration team did a wonderful job.
+RV0024,H006,5,2026-07-17,"Spacious parking, no hassle for guests."
+RV0025,H006,2,2026-08-14,"Hall looked tired, needs renovation."
+RV0026,H007,5,2026-09-20,"Catering was excellent, guests loved the food."
+RV0027,H007,3,2026-09-28,Decent place but AC was a bit weak.
+RV0028,H007,3,2026-09-21,Nice venue but slightly overpriced.
+RV0029,H008,2,2026-07-08,"Hall looked tired, needs renovation."
+RV0030,H008,4,2026-08-24,"Catering was excellent, guests loved the food."
+RV0031,H008,5,2026-07-15,"Beautiful hall, staff were very helpful."
+RV0032,H008,5,2026-07-02,"Catering was excellent, guests loved the food."
+RV0033,H008,5,2026-09-12,"Beautiful hall, staff were very helpful."
+RV0034,H009,4,2026-10-19,Great ambience and spotless washrooms.
+RV0035,H009,3,2026-08-06,"Good hall, parking fills up quickly though."
+RV0036,H009,5,2026-08-16,"Spacious parking, no hassle for guests."
+RV0037,H009,2,2026-08-15,"Hall looked tired, needs renovation."
+RV0038,H010,4,2026-07-26,Smooth coordination from booking to the event.
+RV0039,H010,4,2026-08-03,"Catering was excellent, guests loved the food."
+RV0040,H010,4,2026-09-21,"Catering was excellent, guests loved the food."
+RV0041,H010,1,2026-09-15,Catering quality was below expectations.
+RV0042,H011,5,2026-10-04,"Spacious parking, no hassle for guests."
+RV0043,H011,5,2026-09-19,Decoration team did a wonderful job.
+RV0044,H011,5,2026-09-01,Smooth coordination from booking to the event.
+RV0045,H011,1,2026-10-09,Catering quality was below expectations.
+RV0046,H012,4,2026-07-20,Smooth coordination from booking to the event.
+RV0047,H012,3,2026-08-20,"Food was okay, service a little slow."
+RV0048,H013,5,2026-09-22,Great ambience and spotless washrooms.
+RV0049,H013,3,2026-07-21,"Good hall, parking fills up quickly though."
+RV0050,H013,4,2026-10-02,"Catering was excellent, guests loved the food."
+RV0051,H013,4,2026-08-03,Smooth coordination from booking to the event.
+RV0052,H014,5,2026-08-07,"Spacious parking, no hassle for guests."
+RV0053,H014,5,2026-09-17,Decoration team did a wonderful job.
+RV0054,H014,4,2026-08-09,"Catering was excellent, guests loved the food."
+RV0055,H014,2,2026-09-24,Poor coordination on the event day.
+RV0056,H015,3,2026-07-05,Nice venue but slightly overpriced.
+RV0057,H015,3,2026-10-28,"Good hall, parking fills up quickly though."
+RV0058,H015,3,2026-07-26,"Food was okay, service a little slow."
+RV0059,H015,4,2026-07-15,"Catering was excellent, guests loved the food."
+RV0060,H016,3,2026-10-27,"Food was okay, service a little slow."
+RV0061,H016,4,2026-07-22,"Catering was excellent, guests loved the food."
+RV0062,H016,5,2026-09-20,"Beautiful hall, staff were very helpful."
+RV0063,H016,5,2026-10-23,"Beautiful hall, staff were very helpful."
+RV0064,H017,4,2026-08-02,"Beautiful hall, staff were very helpful."
+RV0065,H017,2,2026-10-04,Poor coordination on the event day.
+RV0066,H017,5,2026-08-13,Decoration team did a wonderful job.
+RV0067,H017,4,2026-10-19,Smooth coordination from booking to the event.
+RV0068,H018,2,2026-07-27,Catering quality was below expectations.
+RV0069,H018,4,2026-09-02,"Spacious parking, no hassle for guests."
+RV0070,H018,3,2026-10-15,"Good hall, parking fills up quickly though."
+RV0071,H019,2,2026-09-18,"Hall looked tired, needs renovation."
+RV0072,H019,2,2026-09-02,Catering quality was below expectations.
+RV0073,H019,4,2026-07-28,Great ambience and spotless washrooms.
+RV0074,H020,5,2026-07-02,Great ambience and spotless washrooms.
+RV0075,H020,3,2026-08-26,"Good hall, parking fills up quickly though."
+RV0076,H020,4,2026-08-19,"Beautiful hall, staff were very helpful."
+RV0077,H020,5,2026-09-25,Great ambience and spotless washrooms.
+RV0078,H020,5,2026-07-09,Decoration team did a wonderful job.
+RV0079,H022,1,2026-09-26,Catering quality was below expectations.
+RV0080,H022,5,2026-07-05,Smooth coordination from booking to the event.
+RV0081,H022,5,2026-09-01,Great ambience and spotless washrooms.
+RV0082,H023,5,2026-10-17,Great ambience and spotless washrooms.
+RV0083,H023,5,2026-10-15,"Beautiful hall, staff were very helpful."
+RV0084,H023,3,2026-10-17,Decent place but AC was a bit weak.
+RV0085,H024,2,2026-09-15,"Hall looked tired, needs renovation."
+RV0086,H024,4,2026-07-16,"Beautiful hall, staff were very helpful."
+RV0087,H024,3,2026-07-16,Nice venue but slightly overpriced.
+RV0088,H025,5,2026-09-20,"Beautiful hall, staff were very helpful."
+RV0089,H025,5,2026-09-20,Great ambience and spotless washrooms.
+RV0090,H025,4,2026-09-13,Decoration team did a wonderful job.
+RV0091,H025,1,2026-09-15,Catering quality was below expectations.
+RV0092,H025,4,2026-07-26,"Spacious parking, no hassle for guests."
+RV0093,H026,2,2026-08-14,Catering quality was below expectations.
+RV0094,H026,4,2026-10-11,Great ambience and spotless washrooms.
+RV0095,H027,4,2026-07-11,Smooth coordination from booking to the event.
+RV0096,H027,4,2026-09-12,Smooth coordination from booking to the event.
+RV0097,H027,1,2026-10-03,Catering quality was below expectations.
+RV0098,H027,5,2026-07-14,"Beautiful hall, staff were very helpful."
+RV0099,H027,5,2026-09-26,Smooth coordination from booking to the event.
+RV0100,H028,4,2026-09-22,Decoration team did a wonderful job.
+RV0101,H028,5,2026-10-28,"Catering was excellent, guests loved the food."
+RV0102,H028,2,2026-09-20,"Hall looked tired, needs renovation."
+RV0103,H029,4,2026-08-05,Decoration team did a wonderful job.
+RV0104,H029,3,2026-07-12,"Good hall, parking fills up quickly though."
+RV0105,H029,3,2026-07-25,"Food was okay, service a little slow."
+RV0106,H029,5,2026-10-28,Great ambience and spotless washrooms.
+RV0107,H030,1,2026-07-20,Catering quality was below expectations.
+RV0108,H030,2,2026-09-01,Catering quality was below expectations.
+RV0109,H030,5,2026-09-11,Smooth coordination from booking to the event.
+RV0110,H030,4,2026-08-19,Great ambience and spotless washrooms.
+RV0111,H030,3,2026-08-24,Decent place but AC was a bit weak.
+RV0112,H030,4,2026-07-24,"Beautiful hall, staff were very helpful."
+RV0113,H032,5,2026-10-11,"Spacious parking, no hassle for guests."
+RV0114,H032,5,2026-09-25,"Catering was excellent, guests loved the food."
+RV0115,H032,2,2026-07-02,Catering quality was below expectations.
+RV0116,H032,5,2026-07-22,Decoration team did a wonderful job.
+RV0117,H032,5,2026-10-16,"Spacious parking, no hassle for guests."
+RV0118,H032,4,2026-09-07,"Spacious parking, no hassle for guests."
+RV0119,H033,5,2026-07-10,"Spacious parking, no hassle for guests."
+RV0120,H033,3,2026-09-02,Nice venue but slightly overpriced.
+RV0121,H033,5,2026-07-01,Decoration team did a wonderful job.
+RV0122,H033,5,2026-08-25,Great ambience and spotless washrooms.
+RV0123,H033,5,2026-07-01,"Catering was excellent, guests loved the food."
+RV0124,H033,4,2026-08-05,"Spacious parking, no hassle for guests."
+RV0125,H034,4,2026-09-03,Great ambience and spotless washrooms.
+RV0126,H034,4,2026-07-14,Smooth coordination from booking to the event.
+RV0127,H034,5,2026-09-19,"Beautiful hall, staff were very helpful."
+RV0128,H034,4,2026-10-10,"Spacious parking, no hassle for guests."
+RV0129,H034,5,2026-09-06,"Beautiful hall, staff were very helpful."
+RV0130,H035,4,2026-09-03,Smooth coordination from booking to the event.
+RV0131,H035,4,2026-08-14,"Beautiful hall, staff were very helpful."
+RV0132,H035,4,2026-07-13,Decoration team did a wonderful job.
+RV0133,H035,2,2026-09-08,Catering quality was below expectations.
+RV0134,H035,5,2026-07-17,Great ambience and spotless washrooms.
+RV0135,H035,4,2026-08-25,Decoration team did a wonderful job.
+RV0136,H036,4,2026-08-08,Smooth coordination from booking to the event.
+RV0137,H036,5,2026-08-06,"Catering was excellent, guests loved the food."
+RV0138,H036,4,2026-07-06,Smooth coordination from booking to the event.
+RV0139,H036,1,2026-10-15,Catering quality was below expectations.
+RV0140,H038,3,2026-09-28,Nice venue but slightly overpriced.
+RV0141,H038,1,2026-08-15,Poor coordination on the event day.
+RV0142,H038,5,2026-09-26,"Spacious parking, no hassle for guests."
+RV0143,H038,5,2026-09-17,"Beautiful hall, staff were very helpful."
+RV0144,H038,5,2026-10-02,"Spacious parking, no hassle for guests."
+RV0145,H038,5,2026-07-21,"Catering was excellent, guests loved the food."
+RV0146,H039,4,2026-10-15,Decoration team did a wonderful job.
+RV0147,H039,4,2026-07-15,Smooth coordination from booking to the event.
+RV0148,H040,3,2026-10-17,"Food was okay, service a little slow."
+RV0149,H040,5,2026-10-04,"Beautiful hall, staff were very helpful."
+RV0150,H040,3,2026-07-17,"Food was okay, service a little slow."
+RV0151,H040,4,2026-08-23,"Beautiful hall, staff were very helpful."
+RV0152,H040,4,2026-08-12,"Spacious parking, no hassle for guests."
+RV0153,H040,4,2026-10-14,"Catering was excellent, guests loved the food."

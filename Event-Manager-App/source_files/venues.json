@@ -1,0 +1,1196 @@
+[
+  {
+    "venue_id": "H001",
+    "name": "Grand Pavilion Convention",
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "pincode": "500032",
+    "min_capacity": 175,
+    "max_capacity": 475,
+    "hall_rental": 345000,
+    "per_plate_veg": 1075,
+    "per_plate_nonveg": 1225,
+    "amenities": [
+      "ac",
+      "bridal_room",
+      "dj",
+      "guest_rooms",
+      "in_house_catering",
+      "power_backup",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "get_together",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H002",
+    "name": "Silver Oak Banquets",
+    "city": "Hyderabad",
+    "area": "Kondapur",
+    "pincode": "500084",
+    "min_capacity": 150,
+    "max_capacity": 400,
+    "hall_rental": 170000,
+    "per_plate_veg": 825,
+    "per_plate_nonveg": 1100,
+    "amenities": [
+      "ac",
+      "decoration",
+      "dj",
+      "in_house_catering",
+      "outside_catering_allowed",
+      "parking",
+      "projector",
+      "stage"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "engagement",
+      "get_together",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H003",
+    "name": "Rajadhani Gardens",
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "pincode": "500033",
+    "min_capacity": 250,
+    "max_capacity": 725,
+    "hall_rental": 310000,
+    "per_plate_veg": 1075,
+    "per_plate_nonveg": 1375,
+    "amenities": [
+      "decoration",
+      "dj",
+      "guest_rooms",
+      "outside_catering_allowed",
+      "power_backup",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "birthday",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H004",
+    "name": "Lotus Grand Function Hall",
+    "city": "Hyderabad",
+    "area": "Kukatpally",
+    "pincode": "500072",
+    "min_capacity": 200,
+    "max_capacity": 475,
+    "hall_rental": 90000,
+    "per_plate_veg": 700,
+    "per_plate_nonveg": 875,
+    "amenities": [
+      "ac",
+      "bridal_room",
+      "in_house_catering",
+      "open_lawn",
+      "outside_catering_allowed",
+      "stage",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "baby_shower",
+      "corporate",
+      "engagement"
+    ],
+    "indoor_outdoor": "outdoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H005",
+    "name": "Pearl City Convention Centre",
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "pincode": "500081",
+    "min_capacity": 275,
+    "max_capacity": 775,
+    "hall_rental": 220000,
+    "per_plate_veg": 1375,
+    "per_plate_nonveg": 1525,
+    "amenities": [
+      "ac",
+      "bridal_room",
+      "decoration",
+      "dj",
+      "in_house_catering",
+      "open_lawn",
+      "parking",
+      "power_backup",
+      "projector",
+      "stage",
+      "valet"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "birthday",
+      "get_together"
+    ],
+    "indoor_outdoor": "outdoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H006",
+    "name": "Nanda Gardens",
+    "city": "Hyderabad",
+    "area": "Miyapur",
+    "pincode": "500049",
+    "min_capacity": 100,
+    "max_capacity": 525,
+    "hall_rental": 145000,
+    "per_plate_veg": 625,
+    "per_plate_nonveg": 925,
+    "amenities": [
+      "ac",
+      "decoration",
+      "dj",
+      "in_house_catering",
+      "open_lawn",
+      "parking",
+      "projector",
+      "stage"
+    ],
+    "event_types": [
+      "baby_shower",
+      "get_together",
+      "wedding"
+    ],
+    "indoor_outdoor": "outdoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H007",
+    "name": "Golconda Banquets",
+    "city": "Hyderabad",
+    "area": "Tolichowki",
+    "pincode": "500008",
+    "min_capacity": 150,
+    "max_capacity": 325,
+    "hall_rental": 125000,
+    "per_plate_veg": 700,
+    "per_plate_nonveg": 950,
+    "amenities": [
+      "bridal_room",
+      "guest_rooms",
+      "open_lawn",
+      "outside_catering_allowed",
+      "parking",
+      "power_backup",
+      "valet"
+    ],
+    "event_types": [
+      "baby_shower",
+      "birthday",
+      "engagement",
+      "get_together",
+      "wedding"
+    ],
+    "indoor_outdoor": "outdoor",
+    "catering_type": "both",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H008",
+    "name": "Emerald Court",
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "pincode": "500034",
+    "min_capacity": 225,
+    "max_capacity": 775,
+    "hall_rental": 350000,
+    "per_plate_veg": 975,
+    "per_plate_nonveg": 1200,
+    "amenities": [
+      "bridal_room",
+      "guest_rooms",
+      "in_house_catering",
+      "open_lawn",
+      "outside_catering_allowed",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "corporate",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H009",
+    "name": "Sri Venkateshwara Function Hall",
+    "city": "Hyderabad",
+    "area": "Dilsukhnagar",
+    "pincode": "500060",
+    "min_capacity": 125,
+    "max_capacity": 300,
+    "hall_rental": 60000,
+    "per_plate_veg": 350,
+    "per_plate_nonveg": 475,
+    "amenities": [
+      "bridal_room",
+      "in_house_catering",
+      "open_lawn",
+      "outside_catering_allowed"
+    ],
+    "event_types": [
+      "birthday",
+      "corporate",
+      "reception"
+    ],
+    "indoor_outdoor": "outdoor",
+    "catering_type": "both",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H010",
+    "name": "The Meadows Resort",
+    "city": "Hyderabad",
+    "area": "Shamshabad",
+    "pincode": "501218",
+    "min_capacity": 50,
+    "max_capacity": 350,
+    "hall_rental": 65000,
+    "per_plate_veg": 550,
+    "per_plate_nonveg": 675,
+    "amenities": [
+      "decoration",
+      "guest_rooms",
+      "in_house_catering",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "corporate",
+      "engagement",
+      "get_together",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H011",
+    "name": "Blue Orchid Convention",
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "pincode": "500081",
+    "min_capacity": 250,
+    "max_capacity": 775,
+    "hall_rental": 385000,
+    "per_plate_veg": 1325,
+    "per_plate_nonveg": 1550,
+    "amenities": [
+      "guest_rooms",
+      "in_house_catering",
+      "open_lawn",
+      "parking",
+      "stage",
+      "valet"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "birthday",
+      "reception"
+    ],
+    "indoor_outdoor": "outdoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H012",
+    "name": "Vasavi Grand",
+    "city": "Hyderabad",
+    "area": "Mehdipatnam",
+    "pincode": "500028",
+    "min_capacity": 50,
+    "max_capacity": 225,
+    "hall_rental": 35000,
+    "per_plate_veg": 475,
+    "per_plate_nonveg": 625,
+    "amenities": [
+      "decoration",
+      "guest_rooms",
+      "in_house_catering",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "baby_shower",
+      "birthday",
+      "get_together",
+      "wedding"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H013",
+    "name": "Celebrity Convention Centre",
+    "city": "Hyderabad",
+    "area": "Kompally",
+    "pincode": "500014",
+    "min_capacity": 50,
+    "max_capacity": 325,
+    "hall_rental": 60000,
+    "per_plate_veg": 450,
+    "per_plate_nonveg": 650,
+    "amenities": [
+      "decoration",
+      "in_house_catering",
+      "parking",
+      "power_backup",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "corporate",
+      "get_together",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H014",
+    "name": "Taj Banquets",
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "pincode": "500003",
+    "min_capacity": 125,
+    "max_capacity": 375,
+    "hall_rental": 110000,
+    "per_plate_veg": 725,
+    "per_plate_nonveg": 900,
+    "amenities": [
+      "bridal_room",
+      "decoration",
+      "guest_rooms",
+      "in_house_catering",
+      "valet"
+    ],
+    "event_types": [
+      "anniversary",
+      "get_together",
+      "wedding"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H015",
+    "name": "Royal Palms",
+    "city": "Hyderabad",
+    "area": "Nanakramguda",
+    "pincode": "500032",
+    "min_capacity": 275,
+    "max_capacity": 675,
+    "hall_rental": 375000,
+    "per_plate_veg": 1200,
+    "per_plate_nonveg": 1525,
+    "amenities": [
+      "ac",
+      "bridal_room",
+      "decoration",
+      "dj",
+      "outside_catering_allowed",
+      "parking"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "birthday",
+      "corporate",
+      "get_together"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H016",
+    "name": "Sunshine Gardens",
+    "city": "Hyderabad",
+    "area": "Nizampet",
+    "pincode": "500090",
+    "min_capacity": 125,
+    "max_capacity": 375,
+    "hall_rental": 85000,
+    "per_plate_veg": 800,
+    "per_plate_nonveg": 1100,
+    "amenities": [
+      "ac",
+      "decoration",
+      "in_house_catering",
+      "open_lawn",
+      "parking",
+      "power_backup",
+      "projector",
+      "stage",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "corporate",
+      "get_together",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H017",
+    "name": "Imperial Banquet Hall",
+    "city": "Hyderabad",
+    "area": "Begumpet",
+    "pincode": "500016",
+    "min_capacity": 200,
+    "max_capacity": 650,
+    "hall_rental": 105000,
+    "per_plate_veg": 800,
+    "per_plate_nonveg": 1050,
+    "amenities": [
+      "dj",
+      "outside_catering_allowed",
+      "projector",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "birthday",
+      "engagement",
+      "wedding"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H018",
+    "name": "Annapurna Function Palace",
+    "city": "Hyderabad",
+    "area": "Uppal",
+    "pincode": "500039",
+    "min_capacity": 125,
+    "max_capacity": 400,
+    "hall_rental": 50000,
+    "per_plate_veg": 475,
+    "per_plate_nonveg": 650,
+    "amenities": [
+      "decoration",
+      "in_house_catering",
+      "parking"
+    ],
+    "event_types": [
+      "birthday",
+      "corporate",
+      "engagement"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H019",
+    "name": "Crystal Court Convention",
+    "city": "Hyderabad",
+    "area": "Kokapet",
+    "pincode": "500075",
+    "min_capacity": 200,
+    "max_capacity": 700,
+    "hall_rental": 225000,
+    "per_plate_veg": 950,
+    "per_plate_nonveg": 1150,
+    "amenities": [
+      "bridal_room",
+      "guest_rooms",
+      "open_lawn",
+      "outside_catering_allowed",
+      "parking",
+      "power_backup",
+      "projector",
+      "stage",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "baby_shower",
+      "corporate",
+      "get_together",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H020",
+    "name": "Green Park Banquets",
+    "city": "Hyderabad",
+    "area": "Manikonda",
+    "pincode": "500089",
+    "min_capacity": 100,
+    "max_capacity": 425,
+    "hall_rental": 100000,
+    "per_plate_veg": 825,
+    "per_plate_nonveg": 1150,
+    "amenities": [
+      "decoration",
+      "dj",
+      "guest_rooms",
+      "outside_catering_allowed",
+      "parking",
+      "valet"
+    ],
+    "event_types": [
+      "baby_shower",
+      "engagement",
+      "get_together",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H021",
+    "name": "Sitara Grand",
+    "city": "Hyderabad",
+    "area": "Attapur",
+    "pincode": "500048",
+    "min_capacity": 125,
+    "max_capacity": 400,
+    "hall_rental": 60000,
+    "per_plate_veg": 500,
+    "per_plate_nonveg": 600,
+    "amenities": [
+      "in_house_catering",
+      "power_backup",
+      "valet"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "corporate"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H022",
+    "name": "Aditya Convention",
+    "city": "Hyderabad",
+    "area": "Financial District",
+    "pincode": "500032",
+    "min_capacity": 150,
+    "max_capacity": 600,
+    "hall_rental": 245000,
+    "per_plate_veg": 850,
+    "per_plate_nonveg": 1175,
+    "amenities": [
+      "bridal_room",
+      "dj",
+      "in_house_catering",
+      "open_lawn",
+      "outside_catering_allowed",
+      "stage",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "birthday",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H023",
+    "name": "Saptagiri Function Hall",
+    "city": "Hyderabad",
+    "area": "LB Nagar",
+    "pincode": "500074",
+    "min_capacity": 75,
+    "max_capacity": 375,
+    "hall_rental": 50000,
+    "per_plate_veg": 550,
+    "per_plate_nonveg": 900,
+    "amenities": [
+      "bridal_room",
+      "in_house_catering",
+      "outside_catering_allowed",
+      "power_backup",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "birthday",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H024",
+    "name": "Ocean Pearl Banquets",
+    "city": "Hyderabad",
+    "area": "Somajiguda",
+    "pincode": "500082",
+    "min_capacity": 175,
+    "max_capacity": 550,
+    "hall_rental": 120000,
+    "per_plate_veg": 650,
+    "per_plate_nonveg": 950,
+    "amenities": [
+      "dj",
+      "in_house_catering",
+      "open_lawn",
+      "parking",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "corporate",
+      "engagement",
+      "get_together",
+      "reception"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H025",
+    "name": "Vivaha Vedika",
+    "city": "Hyderabad",
+    "area": "KPHB",
+    "pincode": "500072",
+    "min_capacity": 175,
+    "max_capacity": 600,
+    "hall_rental": 120000,
+    "per_plate_veg": 525,
+    "per_plate_nonveg": 650,
+    "amenities": [
+      "ac",
+      "dj",
+      "outside_catering_allowed",
+      "parking",
+      "projector",
+      "valet"
+    ],
+    "event_types": [
+      "baby_shower",
+      "birthday",
+      "corporate",
+      "get_together",
+      "reception"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H026",
+    "name": "The Terrace Garden",
+    "city": "Hyderabad",
+    "area": "Chandanagar",
+    "pincode": "500050",
+    "min_capacity": 100,
+    "max_capacity": 275,
+    "hall_rental": 170000,
+    "per_plate_veg": 725,
+    "per_plate_nonveg": 825,
+    "amenities": [
+      "bridal_room",
+      "dj",
+      "guest_rooms",
+      "in_house_catering",
+      "parking",
+      "power_backup",
+      "stage",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "baby_shower",
+      "corporate",
+      "engagement",
+      "get_together",
+      "reception"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H027",
+    "name": "Padmavati Gardens",
+    "city": "Hyderabad",
+    "area": "Malkajgiri",
+    "pincode": "500047",
+    "min_capacity": 100,
+    "max_capacity": 375,
+    "hall_rental": 50000,
+    "per_plate_veg": 500,
+    "per_plate_nonveg": 625,
+    "amenities": [
+      "dj",
+      "in_house_catering",
+      "open_lawn",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "corporate",
+      "engagement",
+      "get_together",
+      "reception"
+    ],
+    "indoor_outdoor": "outdoor",
+    "catering_type": "both",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H028",
+    "name": "The Grand Ballroom",
+    "city": "Hyderabad",
+    "area": "HITEC City",
+    "pincode": "500081",
+    "min_capacity": 225,
+    "max_capacity": 775,
+    "hall_rental": 265000,
+    "per_plate_veg": 1250,
+    "per_plate_nonveg": 1525,
+    "amenities": [
+      "ac",
+      "decoration",
+      "guest_rooms",
+      "outside_catering_allowed",
+      "power_backup",
+      "stage",
+      "valet"
+    ],
+    "event_types": [
+      "baby_shower",
+      "birthday",
+      "engagement"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H029",
+    "name": "Sri Krishna Residency Hall",
+    "city": "Hyderabad",
+    "area": "Ameerpet",
+    "pincode": "500016",
+    "min_capacity": 100,
+    "max_capacity": 250,
+    "hall_rental": 80000,
+    "per_plate_veg": 625,
+    "per_plate_nonveg": 850,
+    "amenities": [
+      "bridal_room",
+      "decoration",
+      "dj",
+      "guest_rooms",
+      "in_house_catering",
+      "open_lawn",
+      "projector",
+      "valet"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "birthday",
+      "corporate",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "outdoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H030",
+    "name": "Lake View Convention",
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "pincode": "500032",
+    "min_capacity": 275,
+    "max_capacity": 800,
+    "hall_rental": 165000,
+    "per_plate_veg": 1375,
+    "per_plate_nonveg": 1550,
+    "amenities": [
+      "ac",
+      "decoration",
+      "guest_rooms",
+      "open_lawn",
+      "outside_catering_allowed",
+      "projector",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "birthday",
+      "corporate",
+      "engagement",
+      "get_together",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H031",
+    "name": "Mangalya Banquets",
+    "city": "Hyderabad",
+    "area": "Bowenpally",
+    "pincode": "500011",
+    "min_capacity": 150,
+    "max_capacity": 325,
+    "hall_rental": 85000,
+    "per_plate_veg": 525,
+    "per_plate_nonveg": 700,
+    "amenities": [
+      "decoration",
+      "in_house_catering",
+      "outside_catering_allowed",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "birthday",
+      "engagement",
+      "reception"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H032",
+    "name": "Heritage Grand",
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "pincode": "500034",
+    "min_capacity": 200,
+    "max_capacity": 700,
+    "hall_rental": 330000,
+    "per_plate_veg": 950,
+    "per_plate_nonveg": 1225,
+    "amenities": [
+      "bridal_room",
+      "decoration",
+      "dj",
+      "guest_rooms",
+      "in_house_catering",
+      "power_backup",
+      "stage",
+      "valet"
+    ],
+    "event_types": [
+      "anniversary",
+      "birthday",
+      "corporate",
+      "reception"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H033",
+    "name": "Swagath Function Hall",
+    "city": "Hyderabad",
+    "area": "Sainikpuri",
+    "pincode": "500094",
+    "min_capacity": 50,
+    "max_capacity": 250,
+    "hall_rental": 50000,
+    "per_plate_veg": 550,
+    "per_plate_nonveg": 750,
+    "amenities": [
+      "bridal_room",
+      "guest_rooms",
+      "in_house_catering",
+      "open_lawn",
+      "power_backup",
+      "projector"
+    ],
+    "event_types": [
+      "baby_shower",
+      "birthday",
+      "engagement",
+      "get_together",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H034",
+    "name": "The Grand Vista",
+    "city": "Hyderabad",
+    "area": "Kokapet",
+    "pincode": "500075",
+    "min_capacity": 250,
+    "max_capacity": 925,
+    "hall_rental": 195000,
+    "per_plate_veg": 1275,
+    "per_plate_nonveg": 1600,
+    "amenities": [
+      "dj",
+      "guest_rooms",
+      "open_lawn",
+      "outside_catering_allowed",
+      "parking",
+      "power_backup",
+      "projector",
+      "valet"
+    ],
+    "event_types": [
+      "engagement",
+      "get_together",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H035",
+    "name": "Sampradaya Convention",
+    "city": "Hyderabad",
+    "area": "Kukatpally",
+    "pincode": "500072",
+    "min_capacity": 150,
+    "max_capacity": 475,
+    "hall_rental": 120000,
+    "per_plate_veg": 700,
+    "per_plate_nonveg": 875,
+    "amenities": [
+      "decoration",
+      "guest_rooms",
+      "outside_catering_allowed",
+      "parking",
+      "stage",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H036",
+    "name": "Rose Garden Banquets",
+    "city": "Hyderabad",
+    "area": "Kondapur",
+    "pincode": "500084",
+    "min_capacity": 100,
+    "max_capacity": 250,
+    "hall_rental": 155000,
+    "per_plate_veg": 575,
+    "per_plate_nonveg": 725,
+    "amenities": [
+      "decoration",
+      "in_house_catering",
+      "projector",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "birthday",
+      "corporate",
+      "engagement",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H037",
+    "name": "Devi Convention Centre",
+    "city": "Hyderabad",
+    "area": "Dilsukhnagar",
+    "pincode": "500060",
+    "min_capacity": 125,
+    "max_capacity": 225,
+    "hall_rental": 50000,
+    "per_plate_veg": 500,
+    "per_plate_nonveg": 775,
+    "amenities": [
+      "dj",
+      "in_house_catering",
+      "power_backup",
+      "projector",
+      "valet"
+    ],
+    "event_types": [
+      "baby_shower",
+      "corporate",
+      "engagement",
+      "wedding"
+    ],
+    "indoor_outdoor": "indoor",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  },
+  {
+    "venue_id": "H038",
+    "name": "Platinum Jubilee Hall",
+    "city": "Hyderabad",
+    "area": "Jubilee Hills",
+    "pincode": "500033",
+    "min_capacity": 250,
+    "max_capacity": 825,
+    "hall_rental": 260000,
+    "per_plate_veg": 1175,
+    "per_plate_nonveg": 1300,
+    "amenities": [
+      "ac",
+      "bridal_room",
+      "decoration",
+      "dj",
+      "in_house_catering",
+      "open_lawn",
+      "parking",
+      "stage",
+      "valet",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "anniversary",
+      "baby_shower",
+      "corporate",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H039",
+    "name": "Sri Sai Function Palace",
+    "city": "Hyderabad",
+    "area": "Miyapur",
+    "pincode": "500049",
+    "min_capacity": 175,
+    "max_capacity": 600,
+    "hall_rental": 175000,
+    "per_plate_veg": 750,
+    "per_plate_nonveg": 975,
+    "amenities": [
+      "in_house_catering",
+      "open_lawn",
+      "outside_catering_allowed",
+      "power_backup",
+      "projector",
+      "stage",
+      "valet"
+    ],
+    "event_types": [
+      "baby_shower",
+      "birthday",
+      "corporate",
+      "get_together",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "veg",
+    "alcohol_allowed": false
+  },
+  {
+    "venue_id": "H040",
+    "name": "The Orchid Garden",
+    "city": "Hyderabad",
+    "area": "Manikonda",
+    "pincode": "500089",
+    "min_capacity": 150,
+    "max_capacity": 475,
+    "hall_rental": 100000,
+    "per_plate_veg": 750,
+    "per_plate_nonveg": 900,
+    "amenities": [
+      "bridal_room",
+      "open_lawn",
+      "outside_catering_allowed",
+      "projector",
+      "stage",
+      "wheelchair_access"
+    ],
+    "event_types": [
+      "birthday",
+      "reception",
+      "wedding"
+    ],
+    "indoor_outdoor": "both",
+    "catering_type": "both",
+    "alcohol_allowed": true
+  }
+]
