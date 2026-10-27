@@ -5,3 +5,11 @@ venv/
 .env
 *.parquet
 .ipynb_checkpoints/
+
+# product_compare
+.env
+data/raw/*.csv
+data/labelled/*.csv
+logs/*.log
+__pycache__/
+.pytest_cache/

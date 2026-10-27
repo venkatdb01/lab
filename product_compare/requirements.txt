@@ -1,0 +1,11 @@
+# Core
+anthropic>=0.40.0        # Claude API client (agent loop + offline review labelling)
+pandas>=2.2.0            # CSV load, GROUP BY in analyze_reviews
+rapidfuzz>=3.9.0         # fuzzy product matching in find_products
+python-dotenv>=1.0.0     # load ANTHROPIC_API_KEY from .env
+
+# Data generation
+faker>=30.0.0            # synthetic product names / review text in generate_data.py
+
+# Testing
+pytest>=8.3.0            # tests/test_tools.py
